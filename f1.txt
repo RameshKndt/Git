@@ -1,5 +1,5 @@
 /**
- * Redistribution and use of this software and associated documentation
+ * Redistribution   this software and ("Software"), with or without modification, are permitted provided
  * ("Software"), with or without modification, are permitted provided
  * that the following conditions are met:
  *
